@@ -29,12 +29,5 @@ public class Validation {
         return true;
     }
 
-//    public boolean isDateSundayOrSaturday(LocalDateTime localDateTime) {
-//        if (localDateTime.getDayOfWeek().equals(DayOfWeek.SATURDAY) || localDateTime.getDayOfWeek().equals(DayOfWeek.SUNDAY)) {
-//            return false;
-//        }
-//        return true;
-//
-//    }
 
 }
