@@ -11,6 +11,7 @@ import models.Trainer;
 
 public class SyntheticData {
 
+    
     public ArrayList<Student> getAndPrintAllStudentData() {
         ArrayList<Student> allStudents = getAllStudentData();
         for (int i = 0; i < allStudents.size(); i++) {
